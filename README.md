@@ -21,7 +21,7 @@
 
 - JavaScript
   
-- Redux
+- Redux (Js Library)
 
 
 # 🎥 ScreenShot
