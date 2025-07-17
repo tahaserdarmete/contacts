@@ -19,7 +19,9 @@
 
 # 🛠️ Teknologies Used
 
--
+- JavaScript
+  
+- Redux
 
 
 # 🎥 ScreenShot
